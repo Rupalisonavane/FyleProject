@@ -20,6 +20,18 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 ## Running end-to-end tests
 
+
+In this Project Added TailWind Css 
+
+to use tailwind css use following commands to add in your project--> npm install -D tailwindcss postcss autoprefixer
+-------------------------------------------------------------------------------------------------------------------
+npx tailwindcss init
+
+npm install @angular-builders/custom-webpack
+
+npm install @angular-builders/dev-server
+
+
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
 ## Further help
